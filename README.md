@@ -111,7 +111,8 @@ Performed quantitative analysis to validate visual observations:
 ### 📊 Visual Results
 
 #### **Weight vs. MPG Scatterplot:**
-![Weight vs MPG](./images/weight vs mog.PNG)
+![Weight vs MPG](./images/weight_vs_mpg.PNG)
+
 *Clear downward trend showing the strong negative relationship*
 
 #### **All Feature Relationships:**
