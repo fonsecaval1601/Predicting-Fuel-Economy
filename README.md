@@ -173,5 +173,3 @@ Performed quantitative analysis to validate visual observations:
 - **NumPy:** Numerical computations
 - **Seaborn/Matplotlib:** Advanced visualization techniques
 - **Jupyter Notebooks:** Interactive analysis and documentation
-
-## 📁 Project Structure
