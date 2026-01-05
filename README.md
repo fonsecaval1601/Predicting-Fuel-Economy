@@ -83,7 +83,7 @@ Performed quantitative analysis to validate visual observations:
 | Acceleration | +0.423 | Moderate | Positive | Counterintuitive relationship |
 
 #### **Correlation Heatmap:**
-![Correlation Matrix](./images/correlation_heatmap.png)
+![Correlation Matrix](./images/heatmap.PNG)
 
 ### 🎯 Key Statistical Insights
 
@@ -111,15 +111,17 @@ Performed quantitative analysis to validate visual observations:
 ### 📊 Visual Results
 
 #### **Weight vs. MPG Scatterplot:**
-![Weight vs MPG](./images/weight_vs_mpg.png)
+![Weight vs MPG](./images/weight vs mog.PNG)
 *Clear downward trend showing the strong negative relationship*
 
 #### **All Feature Relationships:**
-![Feature Scatterplots](./images/feature_scatterplots.png)
+![Feature Scatterplots](./images/pairplot.PNG)
+
 *Matrix showing all pairwise relationships for comprehensive analysis*
 
 #### **MPG Distribution:**
-![MPG Distribution](./images/mpg_histogram.png)
+![MPG Distribution](./images/sky.PNG)
+
 *Right-skewed distribution showing most vehicles in 15-30 MPG range*
 
 ## 🧠 Technical Takeaways & Learnings
